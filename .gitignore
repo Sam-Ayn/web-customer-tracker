@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/web-customer-tracker.iml
+/.idea/
